@@ -17,10 +17,10 @@ export const FinalCTA = () => {
             {/* Left Column - Content */}
             <div className="space-y-10 md:space-y-12 flex flex-col justify-center">
               <div className="space-y-6 md:space-y-8 animate-fade-in-up">
-                <h2 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-textc-100 leading-tight">
+                <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-textc-100 leading-tight">
                   Respire ar limpo hoje mesmo
                 </h2>
-                <p className="text-xl sm:text-2xl md:text-3xl text-textc-300 leading-relaxed">
+                <p className="text-lg sm:text-xl md:text-2xl text-textc-300 leading-relaxed">
                   Atendimento rápido em Londrina e região. Orçamento sem compromisso em até 2 horas. Chegamos no horário combinado.
                 </p>
               </div>
@@ -69,20 +69,20 @@ export const FinalCTA = () => {
 
               {/* Trust Indicators */}
               <div className="space-y-4 md:space-y-5 pt-6 md:pt-8 animate-fade-in" style={{ animationDelay: "400ms" }}>
-                <div className="flex items-center gap-3 md:gap-4 text-base md:text-lg text-textc-300">
-                  <CheckCircle className="w-6 h-6 md:w-7 md:h-7 text-primary-500 flex-shrink-0" />
+                <div className="flex items-center gap-3 text-sm md:text-base text-textc-300">
+                  <CheckCircle className="w-5 h-5 md:w-6 md:h-6 text-primary-500 flex-shrink-0" />
                   <span>Atendemos hoje em Londrina, Cambé, Ibiporã e região</span>
                 </div>
-                <div className="flex items-center gap-3 md:gap-4 text-base md:text-lg text-textc-300">
-                  <CheckCircle className="w-6 h-6 md:w-7 md:h-7 text-primary-500 flex-shrink-0" />
+                <div className="flex items-center gap-3 text-sm md:text-base text-textc-300">
+                  <CheckCircle className="w-5 h-5 md:w-6 md:h-6 text-primary-500 flex-shrink-0" />
                   <span>Orçamento grátis e sem compromisso</span>
                 </div>
-                <div className="flex items-center gap-3 md:gap-4 text-base md:text-lg text-textc-300">
-                  <CheckCircle className="w-6 h-6 md:w-7 md:h-7 text-primary-500 flex-shrink-0" />
+                <div className="flex items-center gap-3 text-sm md:text-base text-textc-300">
+                  <CheckCircle className="w-5 h-5 md:w-6 md:h-6 text-primary-500 flex-shrink-0" />
                   <span>Equipe certificada NR10</span>
                 </div>
-                <div className="flex items-center gap-3 md:gap-4 text-base md:text-lg text-textc-300">
-                  <Clock className="w-6 h-6 md:w-7 md:h-7 text-primary-500 flex-shrink-0" />
+                <div className="flex items-center gap-3 text-sm md:text-base text-textc-300">
+                  <Clock className="w-5 h-5 md:w-6 md:h-6 text-primary-500 flex-shrink-0" />
                   <span className="font-semibold text-textc-100">
                     Garantia de 90 dias
                   </span>

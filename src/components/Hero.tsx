@@ -17,14 +17,14 @@ export const Hero = () => {
               <span className="whitespace-normal sm:whitespace-nowrap font-medium">Certificação NR10 • +350 clientes em Londrina</span>
             </Badge>
 
-            <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-extrabold leading-[1.1] text-textc-100">
+            <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold leading-[1.1] text-textc-100">
               Ar-condicionado instalado com{" "}
               <span className="text-primary">pontualidade</span>{" "}
               e{" "}
               <span className="text-primary">acabamento impecável</span>
             </h1>
 
-            <p className="text-xl sm:text-2xl md:text-3xl text-textc-300 leading-relaxed max-w-2xl">
+            <p className="text-lg sm:text-xl md:text-2xl text-textc-300 leading-relaxed max-w-2xl">
               Equipe certificada em Londrina e região. Higienização profissional que elimina ácaros, reduz consumo de energia e melhora sua saúde. Orçamento em até 2 horas.
             </p>
 
