@@ -100,7 +100,7 @@ export const Testimonials = () => {
             href="https://www.google.com/search?q=G%26L+Manuten%C3%A7%C3%B5es"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-3 text-xl text-primary-500 hover:text-primary-600 transition-colors font-semibold leading-tight"
+            className="flex flex-wrap items-center justify-center gap-x-2 gap-y-1 text-center text-xl text-primary-500 hover:text-primary-600 transition-colors font-semibold leading-snug"
             onClick={() => {
               trackEvent("view_reviews", {
                 event_category: "social_proof",
@@ -109,11 +109,12 @@ export const Testimonials = () => {
               });
             }}
           >
-            <span className="inline-flex items-center gap-2 leading-none">
+            <span className="inline-flex items-center gap-1 leading-none">
               <Star className="w-4 h-4 shrink-0 fill-primary-500 text-primary-500 relative top-[1px]" />
               <span className="leading-none">4,9</span>
             </span>
-            <span className="leading-tight">no Google • Ver todas as 32 avaliações →</span>
+            <span className="leading-snug">no Google •</span>
+            <span className="leading-snug">Ver todas as 32 avaliações →</span>
           </a>
         </div>
       </div>
