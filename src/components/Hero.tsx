@@ -19,10 +19,9 @@ export const Hero = () => {
 
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-extrabold leading-[1.15] sm:leading-[1.1] text-textc-100">
               Ar-condicionado instalado com{" "}
-              <span className="hl hl-dotted">pontualidade</span>{" "}
+              <span className="text-primary">pontualidade</span>{" "}
               e{" "}
-              <span className="hl hl-marker hl-marker--v1">acabamento</span>{" "}
-              <span className="hl hl-marker hl-marker--v2">impecável</span>
+              <span className="text-primary">acabamento impecável</span>
             </h1>
 
             <p className="text-lg sm:text-xl md:text-2xl text-textc-300 leading-relaxed max-w-2xl">
