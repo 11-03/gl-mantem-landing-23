@@ -4,7 +4,6 @@ import { CheckCircle, Clock, Phone } from "lucide-react";
 import whatsappHero from "@/assets/whatsapp-hero.png";
 import { trackEvent } from "@/lib/analytics";
 import { WhatsAppLink } from "@/components/WhatsAppLink";
-import { OptimizedImage } from "@/components/OptimizedImage";
 
 export const FinalCTA = () => {
   return (
@@ -94,12 +93,10 @@ export const FinalCTA = () => {
             {/* Right Column - Mockup */}
             <div className="flex items-center justify-center lg:justify-end animate-fade-in" style={{ animationDelay: "300ms" }}>
               <div className="relative max-w-md w-full">
-                <OptimizedImage
+                <img
                   src={whatsappHero}
                   alt="Atendimento WhatsApp G&L Manutenções - Resposta em até 30 minutos"
-                  width={600}
-                  height={800}
-                  sizes="(max-width: 768px) 100vw, 600px"
+                  loading="lazy"
                   className="w-full h-auto rounded-3xl shadow-elevated hover:shadow-glow transition-shadow duration-500"
                 />
               </div>
