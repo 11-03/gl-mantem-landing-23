@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: [https://lovable.dev/projects/0d75c86a-f6cc-4bd6-8c1c-c296d7a9a15c](https://lovable.dev/projects/bb4322ed-3d84-4a56-a55a-c1c474504099?magic_link=mc_e99b2c16-e4c8-4f6b-b98b-eafe2f263571)
+**URL**: [[https://lovable.dev/projects/0d75c86a-f6cc-4bd6-8c1c-c296d7a9a15c](https://lovable.dev/projects/bb4322ed-3d84-4a56-a55a-c1c474504099?magic_link=mc_e99b2c16-e4c8-4f6b-b98b-eafe2f263571)](https://lovable.dev/projects/bb4322ed-3d84-4a56-a55a-c1c474504099)
 
 ## How can I edit this code?
 
