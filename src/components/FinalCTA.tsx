@@ -18,7 +18,7 @@ export const FinalCTA = () => {
             <div className="space-y-10 md:space-y-12 flex flex-col justify-center">
               <div className="space-y-6 md:space-y-8 animate-fade-in-up">
                 <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-textc-100 leading-tight">
-                  Respire ar limpo hoje mesmo
+                  Pronto para respirar ar limpo de verdade?
                 </h2>
                 <p className="text-lg sm:text-xl md:text-2xl text-textc-300 leading-relaxed">
                   Atendimento rápido em Londrina e região. Orçamento sem compromisso em até 2 horas. Chegamos no horário combinado.
